@@ -1,4 +1,4 @@
-# Obligatoris Aflevering 1
+# Obligatorisk Aflevering 1
 
 ## Opgave 1 + 2 
 
